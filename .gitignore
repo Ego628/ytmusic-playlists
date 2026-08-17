@@ -1,0 +1,34 @@
+# Credentials (NUNCA subir)
+data/browser.json
+data/oauth.json
+data/headers_auth.json
+*.json
+!data/.gitkeep
+
+# Dados pessoais
+data/analysis.json
+data/playlist_suggestions.json
+research_*.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OpenCode
+.opencode/
