@@ -4,6 +4,7 @@ data/oauth.json
 data/headers_auth.json
 *.json
 !data/.gitkeep
+!data/genre_overrides.json
 
 # Dados pessoais
 data/analysis.json
